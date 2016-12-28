@@ -1,0 +1,11 @@
+/* Jason Project */
+
+MAS thisBar {
+infrastructure: Centralised
+
+agents:
+ coffee;
+ cook1; //grind 
+ cook2; //add water & boil
+ cook3; //add sugar and milk
+}
